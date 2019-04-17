@@ -1,11 +1,11 @@
 # THE_ANT_BOT_e-Yantra-2018
-Line Following BOT , integrated with image processing and pick and place mechanism.
+
+BUILDING ANT BOT FROM SCRATCH THAT INCLUDES LINE FOLLOWING USING SENSOR,CLOUR IMAGE PROCESSING
+AND ANT HILL DETECTION AND SERVICE ASSESSEMENT USING CAMERA CORRESPONDING TO THE DATA EXTRACTED
+FROM ARUCO MARKER .ALSO THERE IS PICK AND PLACE MECHANISM.
+
+Link for the Video:
 
 This is team work by:
-Charvi
 
-Pranav
-
-Ankur
-
-Dhawal
+Charvi,Pranav,Ankur,Dhawal
